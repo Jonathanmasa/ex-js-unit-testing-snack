@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "testing snack",
   "main": "index.js",
-  "scripts": {
-    "test": "test",
-    "test:watch": "jest --watchAll"
+ "scripts": {
+  "test": "jest",
+  "test:watch": "jest --watchAll"
+
   },
   "repository": {
     "type": "git",
