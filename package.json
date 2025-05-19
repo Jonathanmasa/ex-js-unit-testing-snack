@@ -1,0 +1,24 @@
+{
+  "name": "ex-js-unit-testing-snack",
+  "version": "1.0.0",
+  "description": "testing snack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonathanmasa/ex-js-unit-testing-snack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonathanmasa/ex-js-unit-testing-snack/issues"
+  },
+  "homepage": "https://github.com/Jonathanmasa/ex-js-unit-testing-snack#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
